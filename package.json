@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@kommunicate/kommunicate-chatbot-plugin": "^0.0.7",
+    "razorpay": "^2.9.2",
+    "react-bootstrap": "^2.10.1",
+    "shortid": "^2.2.16"
+  }
+}

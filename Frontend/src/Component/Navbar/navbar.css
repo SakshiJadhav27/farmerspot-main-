@@ -1,0 +1,33 @@
+.custom-navbar {
+  background-color:#3C6255;
+}
+.navbar-text{
+  font-size: 20px;
+}
+.nav-link{
+  margin-right: 25px;
+}
+.lang{
+  margin-top: 10px;
+  font-size: 20px;
+}
+.lang select{
+  background-color:#3C6255;
+}
+.lang option{
+  background-color: white;
+  font-size: 15px;
+}
+.lbutton button{
+  background-color:#3C6255;
+}
+.lbutton .l-icon{
+font-size: 30px;
+}
+.username button{
+  background-color:antiquewhite;
+  margin-top: 12px;
+  margin-left: 20px;
+  padding: 1px;
+  color:black;
+}
